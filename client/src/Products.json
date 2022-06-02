@@ -1,0 +1,27 @@
+[
+    {
+      "id": 0,
+      "name": "Car",
+      "picture": "car.jpeg",
+      "price": "1",
+      "rent": "3",
+      "location": "Lahore, Pakistan"
+    },
+    {
+      "id": 1,
+      "name": "Guitar",
+      "picture": "guitar.jpeg",
+      "price": "3",
+      "rent": "1",
+      "location": "Tooleville, West Virginia"
+    },
+    {
+      "id": 2,
+      "name": "Table",
+      "picture": "table.jpeg",
+      "price": "10",
+      "rent": "2",
+      "location": "Freeburn, Idaho"
+    }
+  ]
+  

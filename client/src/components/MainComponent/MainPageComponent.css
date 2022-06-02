@@ -1,0 +1,49 @@
+.my_btn {
+  color: black !important;
+  font-size: large !important;
+  text-decoration: none !important;
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.my_btn:hover {
+  background-color: lightgray !important;
+  color: black !important;
+}
+
+.my_btn:focus {
+  border: none !important;
+  border-bottom: 2px solid black !important;
+  background-color: transparent !important;
+  color: #022443 !important;
+}
+
+.my_btn:active {
+  border: none !important;
+  border-bottom: 2px solid black !important;
+  background-color: transparent !important;
+  color: #022443 !important;
+}
+
+.my_navbar {
+  border-bottom: 1px solid lightgray !important;
+}
+
+.my_panel {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.text1_on_banner {
+  font-weight: bold !important;
+  font-size: 36px !important;
+  font-family: "GT Walsheim Pro", Arial, sans-serif !important;
+  line-height: 1.22 !important;
+}
+
+.text2_on_banner {
+  font-weight: 400 !important;
+  font-size: 15px !important;
+  font-family: "GT Walsheim Pro", Arial, sans-serif !important;
+  line-height: 1.33 !important;
+}
