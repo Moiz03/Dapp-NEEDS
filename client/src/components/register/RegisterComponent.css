@@ -1,0 +1,24 @@
+.form-control {
+  border-radius: 0% !important;
+  border: 0.5px solid black !important;
+  background-color: transparent !important;
+  padding: 10px !important;
+  outline: none !important;
+}
+
+.my_btn_reg {
+  background-color: red !important;
+  border: none !important;
+  border-radius: 0% !important;
+  padding: 10px 15px 10px 15px !important;
+  font-size: large !important;
+  font-weight: 500 !important;
+}
+.my_btn_reg:hover {
+  background-color: darkred !important;
+}
+.form-control:focus {
+  border: 2px solid black !important;
+  text-decoration: none !important;
+  outline: none !important;
+}
